@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.8527746c.chunk.js": "/static/js/0.8527746c.chunk.js",
-    "main.css": "/static/css/main.14c458d6.chunk.css",
-    "main.js": "/static/js/main.ee234e6f.chunk.js",
+    "main.css": "/static/css/main.5b9824a8.chunk.css",
+    "main.js": "/static/js/main.e14d290a.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c83427e1.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.9d5cb0f1.chunk.js": "/static/js/3.9d5cb0f1.chunk.js",
@@ -68,9 +68,9 @@
     "static/media/battle9_bg_mobile.519e6572.png": "/static/media/battle9_bg_mobile.519e6572.png",
     "static/media/battle9_details.f411128b.png": "/static/media/battle9_details.f411128b.png",
     "static/media/battle9_story.c8c0db8a.png": "/static/media/battle9_story.c8c0db8a.png",
-    "static/media/box1.0f89a75e.png": "/static/media/box1.0f89a75e.png",
-    "static/media/box2.8a4873f4.png": "/static/media/box2.8a4873f4.png",
-    "static/media/box3.b00dddaa.png": "/static/media/box3.b00dddaa.png",
+    "static/media/box1.2b9c6a6b.png": "/static/media/box1.2b9c6a6b.png",
+    "static/media/box2.0810fefb.png": "/static/media/box2.0810fefb.png",
+    "static/media/box3.a9d4737e.png": "/static/media/box3.a9d4737e.png",
     "static/media/char1.9948d755.png": "/static/media/char1.9948d755.png",
     "static/media/char2.5d2547d1.png": "/static/media/char2.5d2547d1.png",
     "static/media/char3.d3ee8e6c.png": "/static/media/char3.d3ee8e6c.png",
@@ -87,13 +87,13 @@
     "static/media/playtoearn-bg.84ef5558.png": "/static/media/playtoearn-bg.84ef5558.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/souni-logo.9081b837.png": "/static/media/souni-logo.9081b837.png",
-    "static/media/title-home.a8e578d8.png": "/static/media/title-home.a8e578d8.png"
+    "static/media/title-home.ffadfd9c.png": "/static/media/title-home.ffadfd9c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c83427e1.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.9d5cb0f1.chunk.js",
-    "static/css/main.14c458d6.chunk.css",
-    "static/js/main.ee234e6f.chunk.js"
+    "static/css/main.5b9824a8.chunk.css",
+    "static/js/main.e14d290a.chunk.js"
   ]
 }
