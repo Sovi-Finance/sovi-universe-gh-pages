@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.8527746c.chunk.js": "/static/js/0.8527746c.chunk.js",
-    "main.css": "/static/css/main.005c9fcc.chunk.css",
-    "main.js": "/static/js/main.ab6397dd.chunk.js",
+    "main.css": "/static/css/main.392c0ee9.chunk.css",
+    "main.js": "/static/js/main.60fa9e13.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c83427e1.js",
     "static/css/3.9ad4f97d.chunk.css": "/static/css/3.9ad4f97d.chunk.css",
     "static/js/3.9d5cb0f1.chunk.js": "/static/js/3.9d5cb0f1.chunk.js",
@@ -68,9 +68,9 @@
     "static/media/battle9_bg_mobile.519e6572.png": "/static/media/battle9_bg_mobile.519e6572.png",
     "static/media/battle9_details.f411128b.png": "/static/media/battle9_details.f411128b.png",
     "static/media/battle9_story.c8c0db8a.png": "/static/media/battle9_story.c8c0db8a.png",
-    "static/media/box1.2b9c6a6b.png": "/static/media/box1.2b9c6a6b.png",
-    "static/media/box2.0810fefb.png": "/static/media/box2.0810fefb.png",
-    "static/media/box3.a9d4737e.png": "/static/media/box3.a9d4737e.png",
+    "static/media/box1.033929ac.webm": "/static/media/box1.033929ac.webm",
+    "static/media/box2.28175edd.webm": "/static/media/box2.28175edd.webm",
+    "static/media/box3.5787eddc.webm": "/static/media/box3.5787eddc.webm",
     "static/media/char1.9948d755.png": "/static/media/char1.9948d755.png",
     "static/media/char2.5d2547d1.png": "/static/media/char2.5d2547d1.png",
     "static/media/char3.d3ee8e6c.png": "/static/media/char3.d3ee8e6c.png",
@@ -83,7 +83,10 @@
     "static/media/image1.33964a16.png": "/static/media/image1.33964a16.png",
     "static/media/image2.2595c50c.png": "/static/media/image2.2595c50c.png",
     "static/media/image3.3c3f7fde.png": "/static/media/image3.3c3f7fde.png",
-    "static/media/play-btn.c8b9bd42.png": "/static/media/play-btn.c8b9bd42.png",
+    "static/media/nft-dark.f20fd507.png": "/static/media/nft-dark.f20fd507.png",
+    "static/media/nft-shine.1da35bfa.png": "/static/media/nft-shine.1da35bfa.png",
+    "static/media/play-btn-light.43681d0e.png": "/static/media/play-btn-light.43681d0e.png",
+    "static/media/play-btn.caf905e5.png": "/static/media/play-btn.caf905e5.png",
     "static/media/playtoearn-bg.84ef5558.png": "/static/media/playtoearn-bg.84ef5558.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/souni-logo.9081b837.png": "/static/media/souni-logo.9081b837.png",
@@ -93,7 +96,7 @@
     "static/js/runtime-main.c83427e1.js",
     "static/css/3.9ad4f97d.chunk.css",
     "static/js/3.9d5cb0f1.chunk.js",
-    "static/css/main.005c9fcc.chunk.css",
-    "static/js/main.ab6397dd.chunk.js"
+    "static/css/main.392c0ee9.chunk.css",
+    "static/js/main.60fa9e13.chunk.js"
   ]
 }
