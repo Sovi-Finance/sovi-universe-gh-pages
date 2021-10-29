@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.516628ed.chunk.css",
-    "main.js": "/static/js/main.466f6de3.chunk.js",
+    "main.css": "/static/css/main.adb5e64b.chunk.css",
+    "main.js": "/static/js/main.75e917c1.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -41,7 +41,7 @@
     "static/media/Character_Avatar5.65a9bcae.png": "/static/media/Character_Avatar5.65a9bcae.png",
     "static/media/Character_Avatar6.1b34f9f6.png": "/static/media/Character_Avatar6.1b34f9f6.png",
     "static/media/Character_Avatar7.6fd14849.png": "/static/media/Character_Avatar7.6fd14849.png",
-    "static/media/Home.scss": "/static/media/image-banner.6b0f1014.png",
+    "static/media/Home.scss": "/static/media/play_bg.052fa4b0.png",
     "static/media/ContributAndGain.f061001a.mp4": "/static/media/ContributAndGain.f061001a.mp4",
     "static/media/RaidAndLoot.add0e749.mp4": "/static/media/RaidAndLoot.add0e749.mp4",
     "static/media/index.css": "/static/media/ff-monteral-02.d21d560c.woff",
@@ -118,7 +118,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.516628ed.chunk.css",
-    "static/js/main.466f6de3.chunk.js"
+    "static/css/main.adb5e64b.chunk.css",
+    "static/js/main.75e917c1.chunk.js"
   ]
 }
