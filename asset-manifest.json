@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.33c97f14.chunk.css",
-    "main.js": "/static/js/main.e6691963.chunk.js",
+    "main.css": "/static/css/main.08808ba3.chunk.css",
+    "main.js": "/static/js/main.36d3ad57.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -102,7 +102,7 @@
     "static/media/icon2.4eac161a.png": "/static/media/icon2.4eac161a.png",
     "static/media/icon3.6c2080d4.png": "/static/media/icon3.6c2080d4.png",
     "static/media/icon4.948f1b87.png": "/static/media/icon4.948f1b87.png",
-    "static/media/image1.0ee434e7.png": "/static/media/image1.0ee434e7.png",
+    "static/media/image1.b5c79d22.png": "/static/media/image1.b5c79d22.png",
     "static/media/image2.55951579.png": "/static/media/image2.55951579.png",
     "static/media/image3.619dc92c.png": "/static/media/image3.619dc92c.png",
     "static/media/nft-dark.7e2bca71.png": "/static/media/nft-dark.7e2bca71.png",
@@ -118,7 +118,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.33c97f14.chunk.css",
-    "static/js/main.e6691963.chunk.js"
+    "static/css/main.08808ba3.chunk.css",
+    "static/js/main.36d3ad57.chunk.js"
   ]
 }
