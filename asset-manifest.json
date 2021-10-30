@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
     "main.css": "/static/css/main.08808ba3.chunk.css",
-    "main.js": "/static/js/main.36d3ad57.chunk.js",
+    "main.js": "/static/js/main.bb1ffa19.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -45,7 +45,7 @@
     "static/media/ContributAndGain.f061001a.mp4": "/static/media/ContributAndGain.f061001a.mp4",
     "static/media/RaidAndLoot.add0e749.mp4": "/static/media/RaidAndLoot.add0e749.mp4",
     "static/media/index.css": "/static/media/ff-monteral-02.d21d560c.woff",
-    "static/media/Souni trailer video finish.834bf60a.mp4": "/static/media/Souni trailer video finish.834bf60a.mp4",
+    "static/media/Souni trailer video finish.80ebcddd.mp4": "/static/media/Souni trailer video finish.80ebcddd.mp4",
     "static/media/banner3.4681c723.png": "/static/media/banner3.4681c723.png",
     "static/media/battle1.736fe489.png": "/static/media/battle1.736fe489.png",
     "static/media/battle1_bg.3de692d2.png": "/static/media/battle1_bg.3de692d2.png",
@@ -119,6 +119,6 @@
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
     "static/css/main.08808ba3.chunk.css",
-    "static/js/main.36d3ad57.chunk.js"
+    "static/js/main.bb1ffa19.chunk.js"
   ]
 }
