@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.4d48c523.chunk.css",
-    "main.js": "/static/js/main.6b4abd53.chunk.js",
+    "main.css": "/static/css/main.f3823468.chunk.css",
+    "main.js": "/static/js/main.715a6631.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -109,7 +109,7 @@
     "static/media/nft-shine.e9ccf6ee.png": "/static/media/nft-shine.e9ccf6ee.png",
     "static/media/play-btn-light.43681d0e.png": "/static/media/play-btn-light.43681d0e.png",
     "static/media/play-btn.caf905e5.png": "/static/media/play-btn.caf905e5.png",
-    "static/media/playtoearn-bg.84ef5558.png": "/static/media/playtoearn-bg.84ef5558.png",
+    "static/media/playtoearn-bg.8a087c7c.png": "/static/media/playtoearn-bg.8a087c7c.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/title-home.ae83b873.png": "/static/media/title-home.ae83b873.png",
     "static/media/trade_title.6b65ac57.png": "/static/media/trade_title.6b65ac57.png"
@@ -118,7 +118,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.4d48c523.chunk.css",
-    "static/js/main.6b4abd53.chunk.js"
+    "static/css/main.f3823468.chunk.css",
+    "static/js/main.715a6631.chunk.js"
   ]
 }
