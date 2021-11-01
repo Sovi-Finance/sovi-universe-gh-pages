@@ -1,8 +1,8 @@
 {
   "files": {
     "static/js/0.fb9cb8d5.chunk.js": "/static/js/0.fb9cb8d5.chunk.js",
-    "main.css": "/static/css/main.6d324854.chunk.css",
-    "main.js": "/static/js/main.8911ecd0.chunk.js",
+    "main.css": "/static/css/main.b46a7740.chunk.css",
+    "main.js": "/static/js/main.d0d2cae8.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css": "/static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js": "/static/js/3.3f76d065.chunk.js",
@@ -46,7 +46,7 @@
     "static/media/RaidAndLoot.add0e749.mp4": "/static/media/RaidAndLoot.add0e749.mp4",
     "static/media/index.css": "/static/media/ff-monteral-02.d21d560c.woff",
     "static/media/Souni trailer video finish.80ebcddd.mp4": "/static/media/Souni trailer video finish.80ebcddd.mp4",
-    "static/media/banner3.f988eab3.png": "/static/media/banner3.f988eab3.png",
+    "static/media/banner3.135234a8.png": "/static/media/banner3.135234a8.png",
     "static/media/battle1.736fe489.png": "/static/media/battle1.736fe489.png",
     "static/media/battle1_bg.3de692d2.png": "/static/media/battle1_bg.3de692d2.png",
     "static/media/battle1_bg_mobile.29b06eab.png": "/static/media/battle1_bg_mobile.29b06eab.png",
@@ -109,7 +109,7 @@
     "static/media/nft-shine.e9ccf6ee.png": "/static/media/nft-shine.e9ccf6ee.png",
     "static/media/play-btn-light.43681d0e.png": "/static/media/play-btn-light.43681d0e.png",
     "static/media/play-btn.caf905e5.png": "/static/media/play-btn.caf905e5.png",
-    "static/media/playtoearn-bg.8a087c7c.png": "/static/media/playtoearn-bg.8a087c7c.png",
+    "static/media/playtoearn-bg.d9508f00.png": "/static/media/playtoearn-bg.d9508f00.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/title-home.ae83b873.png": "/static/media/title-home.ae83b873.png",
     "static/media/trade_title.6b65ac57.png": "/static/media/trade_title.6b65ac57.png"
@@ -118,7 +118,7 @@
     "static/js/runtime-main.3e23eea3.js",
     "static/css/3.ae35071f.chunk.css",
     "static/js/3.3f76d065.chunk.js",
-    "static/css/main.6d324854.chunk.css",
-    "static/js/main.8911ecd0.chunk.js"
+    "static/css/main.b46a7740.chunk.css",
+    "static/js/main.d0d2cae8.chunk.js"
   ]
 }
